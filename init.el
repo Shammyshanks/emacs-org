@@ -20,7 +20,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
-   '(org-journal which-key elfeed smex avy rainbow-mode doom-modeline all-the-icons rainbow-delimiters catppuccin-theme gruvbox-theme ido-vertical-mode lua-mode nix-mode dashboard use-package)))
+   '(org-roam meow org-journal which-key elfeed smex avy rainbow-mode doom-modeline all-the-icons rainbow-delimiters catppuccin-theme gruvbox-theme ido-vertical-mode lua-mode nix-mode dashboard use-package)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
